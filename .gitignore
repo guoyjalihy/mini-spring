@@ -1,0 +1,11 @@
+
+.gradle/
+.idea/
+build/
+gradle/
+gradlew
+gradlew.bat
+mini-spring.iml
+tomcat.8899/
+framework/out/
+test/out/
